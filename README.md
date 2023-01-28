@@ -38,5 +38,5 @@ Admin
 ## Authors.
 0
 
-* **Yulia Rahman Alfito** - *Newbie Web Developers* - [VODONESIA](https://vodonesia.id)
+* **Yulia Rahman Alfito** - *Newbie Web Developers* - 
 Projek ini untuk memenuhi tugas Matakuliah Sistem Operasi
